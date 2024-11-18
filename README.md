@@ -1,7 +1,3 @@
-﻿# pythonMath
-Adding Instructions to Your Repository
-Create a README.md file in your project folder with instructions. Here’s an example:
-
 markdown
 Copy code
 # Math Training App
