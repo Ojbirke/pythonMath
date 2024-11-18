@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Math Training App
 
 This is a Python-based math training app designed to help kids practice multiplication in a fun and interactive way. The app includes a timer, real-time feedback, and a leaderboard to track scores.
